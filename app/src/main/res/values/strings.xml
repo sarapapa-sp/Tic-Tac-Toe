@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TIc Tac Toe</string>
+    <string name="heading">Welcome to TIC-TAC-TOE</string>
+    <string name="grid">This is grid image of Tic Tac Toe</string>
+</resources>
